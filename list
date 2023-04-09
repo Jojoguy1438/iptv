@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",UFC
+https://br.embedflix.net/p2p/ufcfight/chunks.m3u8?nimblesessionid=25676308&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMTozMjozMyBBTSZoYXNoX3ZhbHVlPUlYMDhLb0ZiTm0vOEhXS09HdFAwVUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon
+https://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Animal Planet
+https://br.embedflix.net/p2p/animalplanet/chunks.m3u8?nimblesessionid=25703326&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMjowNzo1MyBBTSZoYXNoX3ZhbHVlPU15NmNWemxiME5VVzJWRWgrNFhqdkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
