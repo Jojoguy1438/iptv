@@ -6,7 +6,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 https://br.embedflix.net/p2p/ufcfight/chunks.m3u8?nimblesessionid=25676308&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMTozMjozMyBBTSZoYXNoX3ZhbHVlPUlYMDhLb0ZiTm0vOEhXS09HdFAwVUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon
 https://server100.online/nick/tracks-v1a1/mono.m3u8?remote=187.44.236.100&token=9927db0d4cf328fe5b9ed37ea6f2f6963645a100-d9b1a1903de471d04414dcd84217c2b1-1681012432-1681008832
-#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon 4
-https://geralorigin.eu-central-1.edge.mycdn.live/live/nickelodeonsd/tracks-v1a1/mono.m3u8?md5=sbbxfGaUxHoyf_pOdkWIgw&expires=1681046529
+#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon 2
+https://geralorigin.eu-central-1.edge.mycdn.live/live/nickelodeonhd/tracks-v1a1/mono.m3u8?md5=YzioxagnfCfDMAZ-PLTmbw&expires=1681046787
 #EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Animal Planet
 https://br.embedflix.net/p2p/animalplanet/chunks.m3u8?nimblesessionid=25703326&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMjowNzo1MyBBTSZoYXNoX3ZhbHVlPU15NmNWemxiME5VVzJWRWgrNFhqdkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
