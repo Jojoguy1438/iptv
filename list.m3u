@@ -6,9 +6,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 https://br.embedflix.net/p2p/ufcfight/chunks.m3u8?nimblesessionid=25676308&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMTozMjozMyBBTSZoYXNoX3ZhbHVlPUlYMDhLb0ZiTm0vOEhXS09HdFAwVUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon
 https://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon 2
-https://m3u9.ml/a2/hls1/nick-bk2/__index.m3u8?mu3zAQc9HC3GbwJq=_VWnVJSZXMnGB8PomFPvEg&3U1G7qaTxrPbalZnEx=1681041
-#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon 3
-https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon2
+https://tv.topplay.cf/playlist/03a362f8432f9c98e7e0849d20281e66/e6d26f56fb059309311483e65f975491/master.m3u8?token=bWh2NVdNeWFJVnpHVkFaakZxZ1hRS0p2azI5RXM3VDBmamFHMll2MCtwK21zU1g2ZGdKT2VYOGMrWHk3ck40dTo6sl75s1x%2F4bRfJqSBPvBOlw%3D%3D
+#EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Nickelodeon3
+https://server100.online/nick/tracks-v1a1/mono.m3u8?remote=187.44.236.100&token=92f478c8d8c995add29013aab93ceb1d9669cccf-076b5a6d586c195ef1daaa08a705ea7b-1681016631-1681013031
 #EXTINF:-1 tvg-logo="https://svgshare.com/i/rwh.svg",Animal Planet
 https://br.embedflix.net/p2p/animalplanet/chunks.m3u8?nimblesessionid=25703326&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMjowNzo1MyBBTSZoYXNoX3ZhbHVlPU15NmNWemxiME5VVzJWRWgrNFhqdkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
