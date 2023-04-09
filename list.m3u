@@ -20,3 +20,7 @@ https://br.embedflix.net/p2p/history/chunks.m3u8?nimblesessionid=25929744&wmsAut
 https://br.embedflix.net/p2p/discoveryinvesticacao/chunks.m3u8?nimblesessionid=25930073&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNjowMTo0MiBBTSZoYXNoX3ZhbHVlPWRlZE81UEpKOXIrSWp1TEFDbG10QWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-logo="",Warner Channel
 https://br.embedflix.net/p2p/warnerchannel/chunks.m3u8?nimblesessionid=25930839&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNjowNDoxMSBBTSZoYXNoX3ZhbHVlPW1ZczBmd0pNcnJYUUxkdVdmdWtqOXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo="",Record
+https://br.embedflix.net/p2p/recordsp/chunks.m3u8?nimblesessionid=25933220&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNjoxNDowNyBBTSZoYXNoX3ZhbHVlPU5NdnI0elpZY0N6a0tHcDVKSnUrRUE9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo="",Band
+https://br.embedflix.net/p2p/bandsp_720p/chunks.m3u8?nimblesessionid=25933421&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNjoxNTowNSBBTSZoYXNoX3ZhbHVlPTNaQjVEc001T2xsYWR4YU1EdjFoYkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
