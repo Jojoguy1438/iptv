@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ESPN 1
-http://212.102.60.39:2200/BRX/ESPN_UHD/tracks-v1a1/2023/08/06/15/36/43-05998.ts
+http://212.102.60.39:2200/BRX/ESPN_UHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Nickelodeon
 https://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="",Nickelodeon 2
