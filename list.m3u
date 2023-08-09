@@ -18,8 +18,8 @@ https://server100.online/animal-planet/tracks-v1a1/mono.m3u8?remote=187.44.236.1
 https://br.embedflix.net/p2p/sbt_720p/chunks.m3u8?nimblesessionid=25928480&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNTo1NDo0NSBBTSZoYXNoX3ZhbHVlPUhYQnY2M3hUM2NlM0p4L3lVQTQ1WEE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-logo="",History Channel
 https://br.embedflix.net/p2p/history/chunks.m3u8?nimblesessionid=25929744&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNjowMDoxMyBBTSZoYXNoX3ZhbHVlPVhYVXhRT0JOeGxXTDJuSU4wOHBjTXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-logo="",Investigação Discovery
-https://br.embedflix.net/p2p/discoveryinvesticacao/chunks.m3u8?nimblesessionid=25930073&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNjowMTo0MiBBTSZoYXNoX3ZhbHVlPWRlZE81UEpKOXIrSWp1TEFDbG10QWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo="",Tooncast
+http://212.102.60.39:2200/BRX/Tooncast_HD/tracks-v1a1/2023/08/09/00/27/34-05006.ts
 #EXTINF:-1 tvg-logo="",Animal Planet
 http://megablaze.com.global.prod.fastly.net:80/live/animalplanet/play2.m3u8
 #EXTINF:-1 tvg-logo="",Record
