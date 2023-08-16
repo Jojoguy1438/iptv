@@ -10,9 +10,10 @@ http://45.235.0.78:80/PREMIERECLUBES-HD/tracks-v1a1/mono.m3u8
 http://45.235.0.78:80/ESPNBRASIL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="",Nickelodeon
-https://cdn2.connectbr.com.br/Nickelodeon/index.m3u8
+http://pfsv.io:80/miguelbarbosa/10203040/145.ts
 
-#EXTINF:-1 tvg-logo="",South Park | 24 Horas
+#EXTINF:-1 tvg-logo="",Chaves
+http://pfsv.io:80/miguelbarbosa/10203040/106582.ts
 
 #EXTINF:-1 tvg-logo="",Animal Planet
 
