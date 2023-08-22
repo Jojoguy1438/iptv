@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="",National Geographic
 http://firestreamcdn.fire19.xyz:80/c5ce3594dfced5a000190865b/tracks-v1a1/mono.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1ZDEyZDMyYTU4NTcwZTAwMTBmZjQyZGMiLCJzdHJlYW1uYW1lIjoiYzVjZTM1OTRkZmNlZDVhMDAwMTkwODY1YiIsImlhdCI6MTY5MjczMDIxMCwiZXhwIjoxNjkyODE2NjEwLCJuYmYiOjE2OTI3MzAyMTB9.nMFMTfMDtS3gjWaan4OAWdMnuBsXJOjWolLbnsF5lkc
 
-#EXTINF:-1 tvg-logo="",History
+#EXTINF:-1 tvg-logo="",History Channel
 http://firestreamcdn.fire19.xyz:80/c5ce34e2bfced5a0001907fa8/tracks-v1a1/mono.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1ZDEyZDMyYTU4NTcwZTAwMTBmZjQyZGMiLCJzdHJlYW1uYW1lIjoiYzVjZTM0ZTJiZmNlZDVhMDAwMTkwN2ZhOCIsImlhdCI6MTY5MjczMDM1OSwiZXhwIjoxNjkyODE2NzU5LCJuYmYiOjE2OTI3MzAzNTl9.IrhVo_UJqT84kzrI1JFTY-fO6P351HqpgK4YCHojUAM
 
 #EXTINF:-1 tvg-logo="",Animal Planet
@@ -20,8 +20,6 @@ http://pfsv.io:80/miguelbarbosa/10203040/106582.ts
 #EXTINF:-1 tvg-logo="",Animal Planet 2
 
 #EXTINF:-1 tvg-logo="",SBT
-
-#EXTINF:-1 tvg-logo="",History Channel
 
 #EXTINF:-1 tvg-logo="",Tooncast
 http://pfsv.io:80/miguelbarbosa/10203040/48756.ts
