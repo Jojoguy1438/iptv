@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="",National Geographic
-http://5ce.me:80/live/Brunopeixe1988tv/1988tvBO/35430.ts
+http://firestreamcdn.fire19.xyz:80/c5ce3594dfced5a000190865b/tracks-v1a1/mono.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1ZDEyZDMyYTU4NTcwZTAwMTBmZjQyZGMiLCJzdHJlYW1uYW1lIjoiYzVjZTM1OTRkZmNlZDVhMDAwMTkwODY1YiIsImlhdCI6MTY5MjczMDIxMCwiZXhwIjoxNjkyODE2NjEwLCJuYmYiOjE2OTI3MzAyMTB9.nMFMTfMDtS3gjWaan4OAWdMnuBsXJOjWolLbnsF5lkc
 
 #EXTINF:-1 tvg-logo="",Animal Planet
 http://5ce.me:80/live/Brunopeixe1988tv/1988tvBO/6949.ts
