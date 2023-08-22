@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-logo="",National Geografic
+http://5ce.me:80/live/Brunopeixe1988tv/1988tvBO/35430.ts
 
 #EXTINF:-1 tvg-logo="",Premiere FC
 http://45.235.0.78:80/PREMIERECLUBES-HD/tracks-v1a1/mono.m3u8
