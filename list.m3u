@@ -18,14 +18,15 @@ http://firestreamcdn.fire19.xyz:80/c5ce304a1fced5a00019068ee/tracks-v1a1/mono.m3
 #EXTINF:-1 tvg-logo="",Chaves
 http://5ce.me:80/live/Brunopeixe1988tv/1988tvBO/113853.ts
 
-#EXTINF:-1 tvg-logo="",Animal Planet 2
+#EXTINF:-1 tvg-logo="",TEST 1
+http://15110166167.com:80/live/287994003712/287994003712/2600.ts
 
 #EXTINF:-1 tvg-logo="",SBT
 
 #EXTINF:-1 tvg-logo="",Tooncast
 http://pfsv.io:80/miguelbarbosa/10203040/48756.ts
 
-#EXTINF:-1 tvg-logo="",Animal Planet
+#EXTINF:-1 tvg-logo="",TEST 2
 
 #EXTINF:-1 tvg-logo="",South Park
 
